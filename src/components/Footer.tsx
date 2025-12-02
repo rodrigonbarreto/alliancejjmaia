@@ -23,8 +23,8 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-muted-foreground text-sm max-w-md mb-6">
-              Faça parte de uma das maiores equipas de Jiu-Jitsu do mundo. 
-              Na Alliance Maia, transformamos vidas através da arte suave.
+              Academia de Jiu-Jitsu Brasileiro na Maia, servindo Porto, Póvoa de Varzim e Vila do Conde.
+              Faça parte da maior equipa de BJJ do mundo. Aulas para crianças e adultos.
             </p>
             <div className="flex gap-4">
               <a

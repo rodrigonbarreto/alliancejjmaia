@@ -46,7 +46,7 @@ const Contact = () => {
             Fale <span className="text-gradient">Connosco</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Tem alguma questão? Entre em contacto connosco ou visite a nossa academia para uma aula experimental gratuita.
+            Tem alguma questão sobre Jiu-Jitsu na Maia? Entre em contacto connosco ou visite a nossa academia Alliance para uma aula experimental gratuita. Servimos Porto, Póvoa de Varzim e Vila do Conde.
           </p>
         </motion.div>
 

@@ -9,28 +9,28 @@ const programs = [
     title: "Jiu-Jitsu Kids",
     age: "5 a 14 anos",
     description:
-      "Aulas de Jiu-Jitsu que ensinam respeito, disciplina e autoconfiança, num ambiente divertido e seguro para as crianças crescerem fortes e confiantes.",
+      "Aulas de Jiu-Jitsu para crianças na Maia e Porto. Ensinamos respeito, disciplina e autoconfiança num ambiente divertido e seguro. Artes marciais infantis em Póvoa de Varzim e Vila do Conde.",
     image: programKids,
   },
   {
     title: "Jiu-Jitsu Adultos",
     age: "A partir dos 15 anos",
     description:
-      "Programa completo para todos os níveis, desde iniciantes até competidores. Aprenda os fundamentos e técnicas avançadas do Jiu-Jitsu Brasileiro.",
+      "Aulas de BJJ para adultos na Maia e Grande Porto. Programa completo do iniciante ao competidor. Academia Alliance com técnicas de Jiu-Jitsu Brasileiro de alto nível.",
     image: programAdults,
   },
   {
     title: "No-Gi",
     age: "Todos os níveis",
     description:
-      "Descubra o mundo acelerado do No-Gi Jiu-Jitsu, que enfatiza a agilidade e a técnica num ambiente dinâmico e sem kimono.",
+      "Treinos de No-Gi e Grappling na Maia. Submission wrestling e Jiu-Jitsu sem kimono para quem quer agilidade e técnica. Aulas em Porto, Póvoa e Vila do Conde.",
     image: programNogi,
   },
   {
     title: "Aulas Privadas",
     age: "Personalizado",
     description:
-      "Aulas particulares que fortalecem corpo e mente, promovendo evolução constante num ambiente personalizado às suas necessidades.",
+      "Aulas particulares de Jiu-Jitsu na Maia. Treino personalizado com instrutores Alliance para evolução rápida. Disponível para alunos de Porto e região.",
     image: programPrivate,
   },
 ];

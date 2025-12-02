@@ -59,8 +59,8 @@ const Hero = () => {
             transition={{ delay: 0.5, duration: 0.8 }}
             className="subtitle mx-auto mb-10"
           >
-            Inicie a sua jornada no Jiu-Jitsu Brasileiro com uma das maiores equipas do mundo.
-            Aulas para todas as idades e níveis de experiência.
+            Academia de Jiu-Jitsu Brasileiro na Maia, Porto. Aulas de BJJ para crianças e adultos em Póvoa de Varzim e Vila do Conde.
+            Inicie a sua jornada com uma das maiores equipas do mundo.
           </motion.p>
 
           <motion.div
